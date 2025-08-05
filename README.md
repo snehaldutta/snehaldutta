@@ -21,9 +21,9 @@ I'm a Computer Science student who loves turning ideas into clean, scalable code
 - 🧊 **Image Compression @ UIT Arctic University**  
   Trained 6 ML models on custom image datasets and automated the testing process with Pytest.
 
-- 🌊 **Physics-Informed Neural Networks @ University of Lodz**  
-  Currently working on applying PINNs to real-world physics problems using PyTorch.
-
+- 🌊 **Machine Learning Architect Intern @ UŁ IT Centre**  
+  Tested and evaluated the performance of various ML models and environments for the ML Architecture Design Project
+  
 - 💬 **Coder-Buddy** *(Open Source)*  
   A smart coding assistant built with **Ollama** and **Streamlit** to help users solve programming problems using local LLMs. [GitHub ↗](https://github.com/snehaldutta/coder-buddy)
 
@@ -40,7 +40,7 @@ I'm a Computer Science student who loves turning ideas into clean, scalable code
 
 ## 🤝 Let’s Connect
 
-I’m always up for chatting about new ideas, projects, or opportunities.  
+I’m always open to discussing new ideas, projects, or opportunities.  
 Feel free to reach out — especially if you're hiring for **Python**, **back-end**, or **ML** roles!
 
 📫 [Email Me](mailto:snehaldutta1230@gmail.com)  
