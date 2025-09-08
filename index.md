@@ -1,10 +1,3 @@
----
-layout: default
-title: Snehal Dutta - Python Developer | ML Engineer | Backend Specialist
-description: Python developer with 2+ years building ML models and backend systems. Specialized in PyTorch, Django, and automation. Open to Python/ML opportunities.
-keywords: Python developer, machine learning engineer, backend developer, Django, PyTorch, Lodz Poland, computer science, ML models, automation, Warsaw Poland, Amsterdam Netherlands, Berlin Germany, Agentic AI, Generative AI, Data Science, deep learning
----
-
 # Snehal Dutta | Python & ML Engineer
 
 **📍 Łódź, Poland | 🎓 CS Student @ University of Lodz | 💼 Open to Opportunities**
