@@ -36,7 +36,7 @@ linkedin_username: snehal-python
 twitter_username: # Add if you have one
 
 # Theme Settings
-theme: jekyll-theme-minimal
+theme: jekyll-theme-cayman
 show_downloads: false # Set to true if you want to show download buttons
 google_analytics: # Add your Google Analytics tracking ID if you have one
 
