@@ -1,2 +1,87 @@
-title: Snehal Dutta
+# Site Settings
+title: Snehal Dutta - Python Developer | ML Engineer
+description: >-
+  Python developer with 2+ years building ML models and backend systems. 
+  Specialized in PyTorch, Django, and automation. Computer Science student 
+  at the University of Lodz, Poland. Open to Python/ML opportunities.
+author: Snehal Dutta
+email: snehaldutta1230@gmail.com
+baseurl: "" # Leave empty if this is your user site (username.github.io)
+url: "https://snehaldutta.github.io" # Update with your actual GitHub Pages URL
+
+# SEO and Social Media
+tagline: Python & ML Engineer | Backend Developer | Open Source Contributor
+keywords: 
+  - Python developer
+  - Machine learning engineer
+  - Backend developer
+  - Django
+  - PyTorch
+  - Lodz Poland
+  - Warsaw Poland
+  - Computer science
+  - ML models
+  - Automation
+  - REST APIs
+  - Data science
+  - Agentic AI
+  - Prompt Engineer
+  - Generative AI
+  - Berlin Germany
+  - Amsterdam Netherlands
+
+# Social Links
+github_username: snehaldutta
+linkedin_username: snehal-python
+twitter_username: # Add if you have one
+
+# Theme Settings
 theme: jekyll-theme-minimal
+show_downloads: false # Set to true if you want to show download buttons
+google_analytics: # Add your Google Analytics tracking ID if you have one
+
+# Additional Metadata for SEO
+lang: en
+locale: en_US
+timezone: Europe/Warsaw
+
+# Open Graph / Social Media Preview
+social:
+  name: Snehal Dutta
+  links:
+    - https://www.linkedin.com/in/snehal-python
+    - https://github.com/snehaldutta
+    - mailto:snehaldutta1230@gmail.com
+
+# Jekyll SEO Tag Plugin Settings (if you decide to use it)
+logo: # Add path to your profile photo/logo if you have one
+image: # Add path to a preview image for social media sharing
+
+# Contact Information
+contact:
+  email: snehaldutta1230@gmail.com
+  phone: "+48 729558467"
+  location: "Łódź, Poland"
+  
+# Professional Details
+position: "Python Developer | ML Engineer"
+organization: "University of Lodz"
+graduation_year: "Expected 2025"
+
+# Build settings
+markdown: kramdown
+plugins:
+  - jekyll-seo-tag # Uncomment if you add this plugin
+  - jekyll-sitemap # Uncomment if you add this plugin
+
+# Exclude from processing
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+  - .gitignore
+  - README.md
